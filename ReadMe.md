@@ -1,4 +1,4 @@
-## Convert images to simulate palettes of ancient displays
+## Convert images to simulate palettes of ancient displays, if you have GEGL 0.4 or higher rather use Tools -> GEGL Opereation -> Color Reduction
 
 ### The following can be simulated
 #### Regular RGB palettes
